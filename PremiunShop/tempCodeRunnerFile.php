@@ -1,0 +1,2 @@
+<?php
+'error'],'stock'=>['index','newStock','addStock','search','deleteConfirm','delete','updateForm','update'],'linelist'=>['index','newLine','addLine','search','deConfirm','delete','error','updateForm','update'],'lineDetail'=>['index','error','create','add','search','updateFrom','update','deleteConfirm','delete']);
